@@ -16,5 +16,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lafistik/fementor-qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://lafistik.github.io/fementor-qr-code-component-main/)
+- Solution URL: [Check how it works](https://github.com/lafistik/fementor-qr-code-component-main)
+- Live Site URL: [https://lafistik.github.io/fementor-qr-code-component-main/]()
